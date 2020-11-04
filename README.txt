@@ -43,7 +43,4 @@ basic requirements:
 
 
 CREDIT GOES TO .....
-
-NAME            : ANNAMALAI
-CLASS           : XII C 
-BOARD ROLL NO.  : 1860092
+Sure Annamalai
